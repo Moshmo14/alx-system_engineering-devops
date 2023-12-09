@@ -1,2 +1,2 @@
-#!/bin/bash; touch ~/hello;
-sudo chown betty:betty ~/hello
+#!/bin/bash
+sudo chown betty:betty $HOME~/hello
