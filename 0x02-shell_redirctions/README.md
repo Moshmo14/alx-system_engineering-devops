@@ -13,3 +13,6 @@ This script display the content of /etc/passwd to the standard output
 
 Display the content of /etc/passwd and /etc/hosts
 
+# /etc/passwd
+
+Display the last 10 lines of /etc/passwd
