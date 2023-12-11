@@ -9,3 +9,7 @@ This script displays a confused smiley "(Ôo)'" to the standard output.
 # /etc/passwd script 
 This script display the content of /etc/passwd to the standard output
 
+# /etc/passwd /etc/hosts
+
+Display the content of /etc/passwd and /etc/hosts
+
