@@ -16,3 +16,8 @@ Display the content of /etc/passwd and /etc/hosts
 # /etc/passwd
 
 Display the last 10 lines of /etc/passwd
+
+# Head diplay 
+
+display the first 10 lines of /etc/passwd
+
