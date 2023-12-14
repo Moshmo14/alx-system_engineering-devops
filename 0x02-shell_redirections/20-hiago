@@ -1,0 +1,2 @@
+#!/bin/bash
+read -p "Enter the input text: " input_text && echo "Modified text: ${input_text//c/}"
