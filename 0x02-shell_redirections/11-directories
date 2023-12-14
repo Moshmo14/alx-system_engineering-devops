@@ -1,0 +1,2 @@
+#!/bin/bash
+shopt -s dotglob; count=0; for d in */; do [[ -d "$d" ]] && count=$((count + 1)); done; echo "The number of directories and sub-directories in the current directory is: $count"
